@@ -2,44 +2,17 @@
 
 ###
 
-<h3 align="center">🕹️My name is Nielsen Rocha and I'm 19 years old...</h3>
+<h3 align="center">Meu nome é Nielsen Rocha e tenho 20 anos...</h3>
 
 ###
 
-<p align="center">I'm currently taking an integrated technical course in IT at IFCE and I'm studying Front End Development, but I intend to try a little bit of everything. Knowledge is never too much!🚀</p>
+<p align="center">Atualmente estou cursando ADS pela Faculdade Descomplica e sigo estudando conteúdos relacionados a desenvolvimento Front-End, programação e desenvolvendo minhas soft skills! Estou em busca de uma oportunidade em que eu posso colocar minhas habilidades em prática e ser capaz de transformar e inovar positivamente nossa sociedade! </p>
 
 ###
 
-<div align="center">
-  <a href="https://www.instagram.com/thenielsenrocha_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/nielsen-rocha-100103283/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="linkedin logo"  />
-  </a>
-  <a href="https://codepen.io/nielsendev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="codepen logo"  />
-  </a>
-</div>
-
-###
 
 <div align="center">
   <img height="150" src="https://media.tenor.com/gcvAM6ZQlrgAAAAC/cat-computer.gif"  />
-</div>
-
-###
-
-<h3 align="center">⚔️Technologies I'm studying:</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="javascript logo"  />
 </div>
 
 ###
@@ -50,14 +23,12 @@
 
 ###
 
-<h3 align="center">👾Thank you for your attention! ;)</h3>
-
----
+<h3 align="center">Obrigado por visitar meu perfil! <br>Caso queira me contatar:</h3>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nielsendev.nielsendev&left_color=black&right_color=green&left_text=Profile%20Views"  />
+  <a href="https://www.linkedin.com/in/nielsen-rocha-100103283/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="linkedin logo"  />
+  </a>
 </div>
-
-###
